@@ -11,6 +11,9 @@
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="ControleBonificacao"/>
     <fullyQualifiedTypeName name="EditorVideo"/>
-    <fullyQualifiedTypeName name="ContaCorrente"/>
     <fullyQualifiedTypeName name="ContaPoupanca"/>
+    <fullyQualifiedTypeName name="AutenticacaoUtil"/>
+    <fullyQualifiedTypeName name="ContaCorrente"/>
+    <fullyQualifiedTypeName name="CalculadorDeImposto"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
 </qualifiedTypeNameHistroy>
