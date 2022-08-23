@@ -1,5 +1,12 @@
+package br.com.bytebank.banco.modelo;
 
 
+/**
+ * Classe representa a estrutura de uma conta
+ * 
+ * @author Daniel
+ *
+ */
 public abstract class Conta {
 	
 	protected double saldo;
@@ -24,7 +31,12 @@ public abstract class Conta {
 	
 	
 	public abstract void deposita(double valor);
-	
+	/**
+	 * Valor precisa ser maior que o saldo.
+	 * 
+	 * @param valor
+	 * @throws SaldoInsuficienteException
+	 */
 	public void saca(double valor) throws SaldoInsuficienteException {
 		if(this.saldo < valor) {
 			throw new SaldoInsuficienteException("Saldo: " + this.saldo + ", Valor: " + valor);
