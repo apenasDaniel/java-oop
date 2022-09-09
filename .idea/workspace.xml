@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98a9fc11-4b95-46c3-b9ed-c8ab660a60b9" name="Changes" comment="" />
+    <list default="true" id="98a9fc11-4b95-46c3-b9ed-c8ab660a60b9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/java-io/contas.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-io/src/main/java/br/com/alura/java/io/teste/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-io/src/main/java/br/com/alura/java/io/teste/TesteLeitura2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-io/src/main/java/br/com/alura/java/io/teste/TesteSerializacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-io/src/main/java/br/com/alura/java/io/teste/TesteSerializacaoCliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-io/src/main/java/br/com/alura/java/io/teste/TesteUnicodeEEncoding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/teste/util/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/util/Teste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/teste/util/TesteArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/util/TesteArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/teste/util/TesteArrayList2Equals.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/util/TesteArrayList2Equals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/teste/util/TesteClassAnonima.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/util/TesteClassAnonima.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/teste/util/TesteOrdenacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/util/TesteOrdenacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/teste/util/TesteOutrosWrappers.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/util/TesteOutrosWrappers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/teste/util/TesteWrapperInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/br/com/bytebank/banco/util/TesteWrapperInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-io/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-io/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-io/src/main/java/br/com/alura/java/io/teste/TesteEscritaPrintStreamPrintWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-io/src/main/java/br/com/alura/java/io/teste/TesteEscritaPrintStreamPrintWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-io/src/main/java/br/com/alura/java/io/teste/TesteLeitura.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-io/src/main/java/br/com/alura/java/io/teste/TesteLeitura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-io/target/classes/br/com/alura/java/io/teste/TesteEscrita3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-io/target/classes/br/com/alura/java/io/teste/TesteLeitura.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-io/target/classes/br/com/alura/java/io/teste/TesteLeitura.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,9 +43,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/apena/IdeaProjects/java-oop/java-io"
+    "last_opened_file_path": "C:/Users/apena/IdeaProjects/java-oop/java-io",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\apena\IdeaProjects\java-oop\bytebank-herdado-conta\src\br\com\bytebank\banco" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,6 +63,12 @@
       <option name="presentableId" value="Default" />
       <updated>1662380298097</updated>
       <workItem from="1662520994804" duration="130000" />
+      <workItem from="1662740490273" duration="34000" />
+      <workItem from="1662740555019" duration="166000" />
+      <workItem from="1662740832667" duration="893000" />
+      <workItem from="1662741786635" duration="34000" />
+      <workItem from="1662741861026" duration="121000" />
+      <workItem from="1662742260793" duration="2633000" />
     </task>
     <servers />
   </component>

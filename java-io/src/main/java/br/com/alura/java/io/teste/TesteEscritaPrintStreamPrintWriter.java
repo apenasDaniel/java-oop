@@ -10,16 +10,16 @@ public class TesteEscritaPrintStreamPrintWriter {
 //        Writer osw = new OutputStreamWriter(fos);
 //        BufferedWriter bw = new BufferedWriter(osw);
 
-        PrintStream ps = new PrintStream("lorem2.txt");
+        PrintWriter pw = new PrintWriter("lorem2.txt", "UTF-8");
 
-        ps.println("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod");
-        ps.println();
-        ps.println();
-        ps.println();
-        ps.println();
-        ps.println("teste teste teste teste");
+        pw.println("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod");
+        pw.println();
+        pw.println();
+        pw.println();
+        pw.println();
+        pw.println("teste teste teste teste");
 
-        ps.close();
+        pw.close();
     }
 
 }
